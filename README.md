@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Sharma</h1>
 - 🌱 I’m currently learning **Data Structures & Algorithm**
 
-- 💬 Ask me about **Java,React,Javascript**
+- 💬 Ask me about **Java, React, Javascript**
 
 - 📫 How to reach me **Priyanshusharma784@gmail.com**
 
